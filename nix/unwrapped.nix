@@ -6,7 +6,6 @@
   kdePackages,
   gamemode,
   jdk17,
-  kdePackages,
   libnbtplusplus,
   ninja,
   qrencode,
