@@ -63,6 +63,7 @@ stdenv.mkDerivation {
   nativeBuildInputs = [
     cmake
     ninja
+    pkg-config
     kdePackages.extra-cmake-modules
     jdk17
     stripJavaArchivesHook
