@@ -73,6 +73,7 @@ stdenv.mkDerivation {
     kdePackages.qtbase
     kdePackages.qtnetworkauth
     kdePackages.qtsvg
+    kdePackages.qtwebsockets
     qrencode
     libarchive
     tomlplusplus
