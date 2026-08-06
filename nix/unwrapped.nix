@@ -2,6 +2,7 @@
   lib,
   stdenv,
   cmake,
+  pkg-config,
   cmark,
   kdePackages,
   gamemode,
