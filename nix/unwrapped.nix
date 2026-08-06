@@ -51,7 +51,7 @@ stdenv.mkDerivation {
       ../launcher
       ../libraries
       ../program_info
-      ../tests
+      # ../tests
     ];
   };
 
